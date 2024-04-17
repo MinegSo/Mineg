@@ -1,1 +1,3 @@
-Hello Word
+from hashlib import md5 as md
+
+MD=md(b"17").hexdigest()
