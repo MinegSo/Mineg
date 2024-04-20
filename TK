@@ -1,1 +1,1 @@
-import os;from time import strftime as time;from hashlib import md5 as md;MD=md(b"21").hexdigest()
+import os;from time import strftime as time;from hashlib import md5 as md;MD=md(b"20").hexdigest()
